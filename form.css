@@ -1,0 +1,30 @@
+.container{
+    background-color: #0a7196;
+    background-image : url("https://img.freepik.com/free-vector/abstract-watercolor-background_23-2149038179.jpg?t=st=1720432608~exp=1720436208~hmac=2a422f6b7e7772f33cfd696c8d95227eb30116b68cabb3fde81b3adcaf79c5a4&w=740");
+    background-repeat: no-repeat ;
+    background-size: cover;
+    margin:10px 185px;
+    padding:10px;
+    border-radius:20px;
+ }
+ 
+ 
+ label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+ }
+ input{
+    border-radius: 30px;
+ }
+    body{
+        background-image : url("https://www.higher-education-marketing.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/06/1-Student-information-system.jpg.webp");
+        display: blick;
+        text-align: center;
+    }
+    button{
+        margin: 30px;
+        background-color: #dadada;
+    }
+ 
+ 
